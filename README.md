@@ -11,9 +11,9 @@
   - [Breads](https://github.com/infxnnite-eight/project-breads.git)
 
 
-🔭 Currently, I'm immersed in pursuing my Cyber Security Google Certificate and I'm in my Junior year of my Cybersecurity Professional career. Since childhood, my fascination with technology has driven me to constantly upgrade and optimize my computer experience. In this journey, I've uncovered an endless world, where pleasure coexists with pain, and dangers lurk on the world wide web. It led me to the realm of cybersecurity and system tools, offering a pathway to enhance our experience while ensuring safety.
+🔭 Currently, I'm immersed in pursuing my Cyber Security Google Certificate and I'm in my Junior year of my Cybersecurity Professional career. 
 
-💪 My strengths lie in PowerShell command prompting, optimizing Windows Firewall, and securing Windows controls. Additionally, I possess a robust understanding of JavaScript syntax, full-stack experience, proficiency in HTML & CSS styling, and expertise in Adobe After Effects. I've also integrated A.I into After Effects, coupled with skills in marketing, sales, and freelancing.
+💪 My strengths lie in PowerShell command prompting, optimizing Windows Firewall, and securing Windows controls. Additionally, I possess a robust understanding of JavaScript syntax, full-stack experience, proficiency in HTML & CSS styling, and expertise in Adobe After Effects. I've also integrated A.I into After Effects, coupled with skills in marketing, sales, and freelancing. Since childhood, my fascination with technology has driven me to constantly upgrade and optimize my computer experience. In this journey, I've uncovered an endless world, where pleasure coexists with pain, and dangers lurk on the world wide web. It led me to the realm of cybersecurity and system tools, offering a pathway to enhance our experience while ensuring safety.
 
 🌱 Currently, I am delving into the foundations of security while expanding my comprehension of programming languages and their versatile applications, not just for my career but also for personal use.
 
